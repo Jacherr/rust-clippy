@@ -36,7 +36,6 @@ use url::Url;
 
 mod doc_comment_double_space_linebreak;
 mod empty_line_after;
-mod empty_line_after;
 mod include_in_doc_without_cfg;
 mod link_with_quotes;
 mod markdown;
